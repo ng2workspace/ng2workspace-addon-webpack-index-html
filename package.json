@@ -1,0 +1,30 @@
+{
+  "name": "ng2workspace-addon-webpack-index-html",
+  "version": "0.0.1",
+  "description": "index.html generating workflow for ng2workspace-addon-webpack",
+  "main": "index.js",
+  "homepage": "https://github.com/ng2workspace/ng2workspace-addon-webpack-index-html#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng2workspace/ng2workspace-addon-webpack-index-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ng2workspace/ng2workspace-addon-webpack-index-html/issues"
+  },
+  "keywords": [
+    "ng2workspace",
+    "angular2",
+    "ng2workspace-addon",
+    "webpack"
+  ],
+  "author": "Merott Movahedi <merott@merott.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "ng2workspace": "../ng2workspace",
+    "ng2workspace-addon-webpack": "../ng2workspace-addon-webpack"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^2.9.0"
+  },
+  "devDependencies": {}
+}
