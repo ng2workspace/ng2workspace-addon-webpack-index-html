@@ -1,6 +1,6 @@
 {
   "name": "ng2workspace-addon-webpack-index-html",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "index.html generating workflow for ng2workspace-addon-webpack",
   "main": "index.js",
   "homepage": "https://github.com/ng2workspace/ng2workspace-addon-webpack-index-html#readme",
